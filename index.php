@@ -673,7 +673,7 @@ footer{
 
 <footer>
   <div class="container">
-    <small>&copy; 2023 The Jewels | Coded By Zainab Sarwar</small>
+    <small>&copy; 2023 The Jewels | Coded By Bisma Mushtaq</small>
   </div>
 </footer>
 
